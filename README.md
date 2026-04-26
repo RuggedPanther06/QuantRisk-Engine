@@ -1,0 +1,3 @@
+-> Engineered a Monte Carlo simulation engine (1k+ iterations) to quantify 95% VaR and map the Efficient Frontier for optimal asset allocation across volatile parameters.
+-> Built an ML directional classifier (54.7% accuracy) and backtesting framework that achieved a 2.08 Sharpe Ratio via dynamic risk exposure reduction in high-volatility regimes.
+-> Demonstrated technical breadth by combining financial engineering logic with scalable Python automation for business model feasibility.
